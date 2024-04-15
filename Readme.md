@@ -9,3 +9,8 @@
 
 - sudo docker run --rm -p 3000:3000 ismail/express-docker
 - ai command diye image run korbo
+
+# kono docker images er modde entry nite chaile ba uporer j image build korlar ai project tar modde entry nite chaile:
+
+- sudo docker run --rm -it ismail/express-docker sh
+- ai command run korte hobe
